@@ -1,5 +1,5 @@
 
-<img src="https://res.cloudinary.com/dgrxzxtd8/image/upload/v1704975758/drrdfq9np1jrg1bv2rts.gif" />
+<img src="https://res.cloudinary.com/dgrxzxtd8/image/upload/v1704975758/drrdfq9np1jrg1bv2rts.gif" style="width:100%" />
 
 Hi 👋 My name is Shantanu
 =========================
